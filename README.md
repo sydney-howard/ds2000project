@@ -3,7 +3,7 @@
 This repository contains the final project for DS2000, completed in Spring 2024 with a partner. The project analyzes and visualizes data from emissions datasets, identifying critical trends and patterns in
 sustainability metrics to propose actionable insights for carbon-neutral initiatives.
 
-## Getting Started
+## Before Running the Code
 **Requirements**: Python 3.x
 
 **Required libraries**: csv, matplotlib
